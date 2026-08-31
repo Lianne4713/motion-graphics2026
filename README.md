@@ -1,2 +1,3 @@
 # motion-graphics2026
-semester 3
+Semester 3
+Year 2
